@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Développeur Vue.js",
+      "description": "Développement d'interfaces web avec Vue 3 et Vue Router.",
+      "company": "TechSafi",
+      "salary": 9000,
+      "experience": 1,
+      "createdAt": "2026-09-15"
+    },
+    {
+      "id": 2,
+      "title": "Ingénieur DevOps",
+      "description": "Mise en place de pipelines CI/CD et gestion de l'infrastructure cloud.",
+      "company": "CloudMaroc",
+      "salary": 15000,
+      "experience": 4,
+      "createdAt": "2026-10-02"
+    },
+    {
+      "id": 3,
+      "title": "Architecte logiciel",
+      "description": "Conception d'architectures distribuées et encadrement d'équipes.",
+      "company": "InnovaSoft",
+      "salary": 25000,
+      "experience": 8,
+      "createdAt": "2026-10-20"
+    }
+  ]
+}
